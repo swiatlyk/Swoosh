@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Swoosh</string>
+    <string name="welcomescreenbackground">welcomeScreenBackground</string>
+</resources>
